@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/NewFolder1/" />
+  <Project Path="contexts/AuthContext/AuthContext.csproj" Id="3706266d-baa7-44cd-a058-947ec9b414b2" />
+  <Project Path="LittleTiger/LittleTiger.csproj" />
+</Solution>

@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aula\\source\\repos\\LittleTiger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|c:\\users\\aula\\source\\repos\\littletiger\\littletiger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|solutionrelative:littletiger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3706266D-BAA7-44CD-A058-947EC9B414B2}|contexts\\AuthContext\\AuthContext.csproj|c:\\users\\aula\\source\\repos\\littletiger\\contexts\\authcontext\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3706266D-BAA7-44CD-A058-947EC9B414B2}|contexts\\AuthContext\\AuthContext.csproj|solutionrelative:contexts\\authcontext\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|c:\\users\\aula\\source\\repos\\littletiger\\littletiger\\contexts\\auth\\controllers\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|solutionrelative:littletiger\\contexts\\auth\\controllers\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|c:\\users\\aula\\source\\repos\\littletiger\\littletiger\\contexts\\auth\\usecases\\loginusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|solutionrelative:littletiger\\contexts\\auth\\usecases\\loginusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|c:\\users\\aula\\source\\repos\\littletiger\\littletiger\\littletiger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|solutionrelative:littletiger\\littletiger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|c:\\users\\aula\\source\\repos\\littletiger\\littletiger\\valueobjects\\amount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|solutionrelative:littletiger\\valueobjects\\amount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|c:\\users\\aula\\source\\repos\\littletiger\\littletiger\\usecases\\placeusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|solutionrelative:littletiger\\usecases\\placeusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|c:\\users\\aula\\source\\repos\\littletiger\\littletiger\\controllers\\betcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|solutionrelative:littletiger\\controllers\\betcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|c:\\users\\aula\\source\\repos\\littletiger\\littletiger\\entities\\bet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|solutionrelative:littletiger\\entities\\bet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aula\\source\\repos\\LittleTiger\\LittleTiger\\Program.cs",
+              "RelativeDocumentMoniker": "LittleTiger\\Program.cs",
+              "ToolTip": "C:\\Users\\Aula\\source\\repos\\LittleTiger\\LittleTiger\\Program.cs",
+              "RelativeToolTip": "LittleTiger\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T23:09:24.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Aula\\source\\repos\\LittleTiger\\contexts\\AuthContext\\Class1.cs",
+              "RelativeDocumentMoniker": "contexts\\AuthContext\\Class1.cs",
+              "ToolTip": "C:\\Users\\Aula\\source\\repos\\LittleTiger\\contexts\\AuthContext\\Class1.cs",
+              "RelativeToolTip": "contexts\\AuthContext\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T23:08:54.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\Aula\\source\\repos\\LittleTiger\\LittleTiger\\Contexts\\Auth\\Controllers\\Class.cs",
+              "RelativeDocumentMoniker": "LittleTiger\\Contexts\\Auth\\Controllers\\Class.cs",
+              "ToolTip": "C:\\Users\\Aula\\source\\repos\\LittleTiger\\LittleTiger\\Contexts\\Auth\\Controllers\\Class.cs",
+              "RelativeToolTip": "LittleTiger\\Contexts\\Auth\\Controllers\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T23:01:40.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Aula\\source\\repos\\LittleTiger\\LittleTiger\\Contexts\\Auth\\UseCases\\LoginUseCase.cs",
+              "RelativeDocumentMoniker": "LittleTiger\\Contexts\\Auth\\UseCases\\LoginUseCase.cs",
+              "ToolTip": "C:\\Users\\Aula\\source\\repos\\LittleTiger\\LittleTiger\\Contexts\\Auth\\UseCases\\LoginUseCase.cs",
+              "RelativeToolTip": "LittleTiger\\Contexts\\Auth\\UseCases\\LoginUseCase.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T22:53:12.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LittleTiger",
+              "DocumentMoniker": "C:\\Users\\Aula\\source\\repos\\LittleTiger\\LittleTiger\\LittleTiger.csproj",
+              "RelativeDocumentMoniker": "LittleTiger\\LittleTiger.csproj",
+              "ToolTip": "C:\\Users\\Aula\\source\\repos\\LittleTiger\\LittleTiger\\LittleTiger.csproj",
+              "RelativeToolTip": "LittleTiger\\LittleTiger.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-30T22:45:45.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Amount.cs",
+              "DocumentMoniker": "C:\\Users\\Aula\\source\\repos\\LittleTiger\\LittleTiger\\ValueObjects\\Amount.cs",
+              "RelativeDocumentMoniker": "LittleTiger\\ValueObjects\\Amount.cs",
+              "ToolTip": "C:\\Users\\Aula\\source\\repos\\LittleTiger\\LittleTiger\\ValueObjects\\Amount.cs",
+              "RelativeToolTip": "LittleTiger\\ValueObjects\\Amount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T23:55:27.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bet.cs",
+              "DocumentMoniker": "C:\\Users\\Aula\\source\\repos\\LittleTiger\\LittleTiger\\Entities\\Bet.cs",
+              "RelativeDocumentMoniker": "LittleTiger\\Entities\\Bet.cs",
+              "ToolTip": "C:\\Users\\Aula\\source\\repos\\LittleTiger\\LittleTiger\\Entities\\Bet.cs",
+              "RelativeToolTip": "LittleTiger\\Entities\\Bet.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwBUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T23:54:51.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlaceUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Aula\\source\\repos\\LittleTiger\\LittleTiger\\UseCases\\PlaceUseCase.cs",
+              "RelativeDocumentMoniker": "LittleTiger\\UseCases\\PlaceUseCase.cs",
+              "ToolTip": "C:\\Users\\Aula\\source\\repos\\LittleTiger\\LittleTiger\\UseCases\\PlaceUseCase.cs",
+              "RelativeToolTip": "LittleTiger\\UseCases\\PlaceUseCase.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T23:28:56.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BetController.cs",
+              "DocumentMoniker": "C:\\Users\\Aula\\source\\repos\\LittleTiger\\LittleTiger\\Controllers\\BetController.cs",
+              "RelativeDocumentMoniker": "LittleTiger\\Controllers\\BetController.cs",
+              "ToolTip": "C:\\Users\\Aula\\source\\repos\\LittleTiger\\LittleTiger\\Controllers\\BetController.cs",
+              "RelativeToolTip": "LittleTiger\\Controllers\\BetController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T22:59:24.875Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

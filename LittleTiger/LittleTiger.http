@@ -1,0 +1,6 @@
+@LittleTiger_HostAddress = http://localhost:5074
+
+GET {{LittleTiger_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
