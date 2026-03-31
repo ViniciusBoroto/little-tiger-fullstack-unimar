@@ -11,10 +11,6 @@
       "RelativeMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|solutionrelative:littletiger\\entities\\achievement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|c:\\users\\hspsz\\documents\\projects\\little-tiger-fullstack-unimar\\littletiger\\entities\\userhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|solutionrelative:littletiger\\entities\\userhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|c:\\users\\hspsz\\documents\\projects\\little-tiger-fullstack-unimar\\littletiger\\entities\\userbet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|solutionrelative:littletiger\\entities\\userbet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -46,21 +42,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserHistory.cs",
-              "DocumentMoniker": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\LittleTiger\\Entities\\UserHistory.cs",
-              "RelativeDocumentMoniker": "LittleTiger\\Entities\\UserHistory.cs",
-              "ToolTip": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\LittleTiger\\Entities\\UserHistory.cs",
-              "RelativeToolTip": "LittleTiger\\Entities\\UserHistory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T00:46:40.718Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -69,14 +52,14 @@
               "RelativeDocumentMoniker": "LittleTiger\\Entities\\Profile.cs",
               "ToolTip": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\LittleTiger\\Entities\\Profile.cs",
               "RelativeToolTip": "LittleTiger\\Entities\\Profile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-31T00:43:20.95Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "UserBet.cs",
               "DocumentMoniker": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\LittleTiger\\Entities\\UserBet.cs",
               "RelativeDocumentMoniker": "LittleTiger\\Entities\\UserBet.cs",
@@ -84,12 +67,11 @@
               "RelativeToolTip": "LittleTiger\\Entities\\UserBet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T00:42:14.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-31T00:42:14.797Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\LittleTiger\\Entities\\Player.cs",
               "RelativeDocumentMoniker": "LittleTiger\\Entities\\Player.cs",
@@ -97,12 +79,11 @@
               "RelativeToolTip": "LittleTiger\\Entities\\Player.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T00:42:15.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-31T00:42:15.709Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Bet.cs",
               "DocumentMoniker": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\LittleTiger\\Entities\\Bet.cs",
               "RelativeDocumentMoniker": "LittleTiger\\Entities\\Bet.cs",
@@ -110,8 +91,7 @@
               "RelativeToolTip": "LittleTiger\\Entities\\Bet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T00:40:46.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-31T00:40:46.616Z"
             },
             {
               "$type": "Document",
@@ -121,14 +101,14 @@
               "RelativeDocumentMoniker": "LittleTiger\\Entities\\Achievement.cs",
               "ToolTip": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\LittleTiger\\Entities\\Achievement.cs",
               "RelativeToolTip": "LittleTiger\\Entities\\Achievement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-31T00:40:34.922Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "LittleTiger.http",
               "DocumentMoniker": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\LittleTiger\\LittleTiger.http",
               "RelativeDocumentMoniker": "LittleTiger\\LittleTiger.http",
@@ -136,34 +116,31 @@
               "RelativeToolTip": "LittleTiger\\LittleTiger.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-03-31T00:38:43.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-31T00:38:43.899Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LittleTiger",
+              "DocumentIndex": 7,
+              "Title": "LittleTiger.csproj",
               "DocumentMoniker": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\LittleTiger\\LittleTiger.csproj",
               "RelativeDocumentMoniker": "LittleTiger\\LittleTiger.csproj",
               "ToolTip": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\LittleTiger\\LittleTiger.csproj",
               "RelativeToolTip": "LittleTiger\\LittleTiger.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-31T00:37:26.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-31T00:37:26.314Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AuthContext",
+              "DocumentIndex": 6,
+              "Title": "AuthContext.csproj",
               "DocumentMoniker": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\contexts\\AuthContext\\AuthContext.csproj",
               "RelativeDocumentMoniker": "contexts\\AuthContext\\AuthContext.csproj",
               "ToolTip": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\contexts\\AuthContext\\AuthContext.csproj",
               "RelativeToolTip": "contexts\\AuthContext\\AuthContext.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-31T00:37:16.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-31T00:37:16.477Z"
             }
           ]
         }
