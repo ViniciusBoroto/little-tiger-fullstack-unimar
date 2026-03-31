@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LittleTiger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb7bcadc5c662189ed06d12ee4ec1762c6e97812")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0dc808cb0b6a34cae3e2dc138e2dcd4d853fe528")]
 [assembly: System.Reflection.AssemblyProductAttribute("LittleTiger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LittleTiger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
