@@ -1,25 +1,32 @@
-﻿using LittleTiger.Interfaces;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 using LittleTiger.Entities;
+using LittleTiger.Interfaces;
 
 namespace LittleTiger.Repositories
 {
     public class AchievementRepository : IAchievementRepository
     {
-        private static List<Achievement> _achievement = new List<Achievement>();
+        private readonly List<Achievement> _achievements = new();
 
-        public List<Achievement> GetAll()
+        public Achievement Create(string name, string description)
         {
-            return _achievement;
+            var achievement = new Achievement
+            {
+                Id = Guid.NewGuid(),
+                Name = name,
+                Description = description
+            };
+
+            _achievements.Add(achievement);
+
+            return achievement;
         }
 
-        public void Create(Achievement conquest)
+        public Achievement GetById(Guid id)
         {
-            if (conquest == null)
-            {
-                throw new Exception("Nao foi possivel adicionar a conquista");
-            }
-            _achievement.Add(conquest);
-            return "deu certo";
+            return _achievements.FirstOrDefault(a => a.Id == id);
         }
     }
 }

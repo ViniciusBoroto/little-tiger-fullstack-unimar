@@ -1,22 +1,28 @@
-﻿using LittleTiger.Contexts.Auth.Entities;
-using LittleTiger.Contexts.Auth.Repositories;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 using LittleTiger.Entities;
+using LittleTiger.Interfaces;
 
 namespace LittleTiger.Repositories
 {
     public class UserRepository : IUserRepository
     {
-        private static List<User> _users = new List<User> ();
+        private readonly List<User> _users = new();
 
-        public void AddAchievementToUser(User user, Achievement achieveme)
+        public User GetById(Guid userId)
         {
-            if (achieveme == null)
-            {
-                throw new Exception("vix deu erro man...");
-            }
-            _users.Add(user);
+            return _users.FirstOrDefault(u => u.Id == userId);
+        }
 
+        public void Update(User user)
+        {
+            var index = _users.FindIndex(u => u.Id == user.Id);
 
+            if (index == -1)
+                throw new KeyNotFoundException($"User with ID {user.Id} not found.");
+
+            _users[index] = user;
         }
     }
 }
