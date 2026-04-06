@@ -9,5 +9,6 @@ namespace LittleTiger.Interfaces
     public interface IAchievementRepository
     {
         List<Achievement> GetAll();
+        Achievement Create(string name, string description);
     }
 }
