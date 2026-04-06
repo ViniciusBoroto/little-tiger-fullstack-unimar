@@ -7,6 +7,6 @@ namespace LittleTiger.Entities
 {
     public class User : EntityBase
     {
-        
+        public List<Achievement> Achievements { get; set; }
     }
 }
