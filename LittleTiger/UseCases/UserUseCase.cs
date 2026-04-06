@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using LittleTiger.Contexts.Auth.Entities;
 using LittleTiger.Interfaces;
 
 namespace LittleTiger.UseCases
@@ -9,10 +10,12 @@ namespace LittleTiger.UseCases
     public class UserUseCase : IUserUseCase
     {
         private readonly IUserRepository _userRepository;
+        private readonly IAchievementRepository _achievementRepository;
 
-        public UserUseCase(IUserRepository userRepository)
+        public UserUseCase(IUserRepository userRepository, IAchievementRepository achievementRepository)
         {
             _userRepository = userRepository;
+            _achievementRepository = achievementRepository;
         }
 
         public void AddAchievementToUser(Guid userId, Guid achievementId)
@@ -26,8 +29,13 @@ namespace LittleTiger.UseCases
             {
                 throw new Exception("AchievementId cannot be empty");
             }
+            var achievement =_achievementRepository.GetById(achievementId);
+            var user = _userRepository.GetById(userId);
 
-            _userRepository.AddAchievementToUser(userId, achievementId);
+            user.AddAchievement(achievement);
+
+            _userRepository.Update(user);
+           
         }
     }
 }

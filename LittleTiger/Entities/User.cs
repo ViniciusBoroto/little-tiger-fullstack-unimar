@@ -8,6 +8,17 @@ namespace LittleTiger.Entities
     public class User : EntityBase
     {
         public List<Achievement> Achievements { get; set; }
+        public User()
+        {
+            Achievements = new List<Achievement>();
+        }
+        public void AddAchievement(Achievement achievement)
+        {
+            if (!Achievements.Any(a => a.Id == achievement.Id))
+            {
+                Achievements.Add(achievement);
+            }
+        }
     }
     
 }
