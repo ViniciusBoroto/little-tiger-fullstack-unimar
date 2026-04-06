@@ -6,9 +6,8 @@ using LittleTiger.Entities;
 
 namespace LittleTiger.Interfaces
 {
-    public interface IAchievementRepository
+    public interface IAchievementUseCase
     {
-        // List<Achievement> GetAll();
-        Achievement Create(string name, string description);
+        Achievement Run(DTOs.CreateAchievementRequest request);
     }
 }

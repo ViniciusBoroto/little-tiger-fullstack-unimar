@@ -2,7 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using LittleTiger.DTOs;
 using LittleTiger.Entities;
+using LittleTiger.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
 namespace LittleTiger.Controllers
@@ -11,12 +13,19 @@ namespace LittleTiger.Controllers
     [Route("api/[controller]")]
     public class AchievementController : ControllerBase
     {
-     [HttpPost("Place")]
-        public IActionResult CheckForAchievements(Profile profile)
+        private readonly IAchievementUseCase _achievementUC;
+
+        public AchievementController(IAchievementUseCase achievementUC)
+        {
+            _achievementUC = achievementUC;
+        }
+
+        [HttpPost("")]
+        public IActionResult CheckForAchievements([FromBody] CreateAchievementRequest request)
         {
             try
             {
-                _placeUseCase.Run(request);
+                _achievementUC.Run(request);
                 return Ok();
             }
             catch (Exception ex)
