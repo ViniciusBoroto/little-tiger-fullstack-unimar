@@ -10,16 +10,10 @@ namespace LittleTiger.Repositories
     {
         private readonly List<Achievement> _achievements = new();
 
-        public Achievement Create(string name, string description)
+        public Achievement Create(Achievement aaaaa)
         {
-            var achievement = new Achievement
-            {
-                Id = Guid.NewGuid(),
-                Name = name,
-                Description = description
-            };
-
-            _achievements.Add(achievement);
+           
+            _achievements.Add(aaaaa);
 
             return achievement;
         }
