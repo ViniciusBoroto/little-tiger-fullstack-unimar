@@ -5,8 +5,8 @@ using System.Threading.Tasks;
 
 namespace LittleTiger.Interfaces
 {
-    public interface IUserUseCase
+    public interface IAddAchievementToUserUseCase
     {
-        void AddAchievementToUser(Guid userId, Guid achievementId);
+        void Run(Guid userId, Guid achievementId);
     }
 }
