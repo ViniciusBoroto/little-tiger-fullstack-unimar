@@ -3,40 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|c:\\users\\hspsz\\documents\\projects\\little-tiger-fullstack-unimar\\littletiger\\entities\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|solutionrelative:littletiger\\entities\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|c:\\users\\hspsz\\documents\\projects\\little-tiger-fullstack-unimar\\littletiger\\repositories\\achievementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|solutionrelative:littletiger\\repositories\\achievementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|c:\\users\\hspsz\\documents\\projects\\little-tiger-fullstack-unimar\\littletiger\\valueobjects\\amount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|solutionrelative:littletiger\\valueobjects\\amount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|c:\\users\\hspsz\\documents\\projects\\little-tiger-fullstack-unimar\\littletiger\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|solutionrelative:littletiger\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|c:\\users\\hspsz\\documents\\projects\\little-tiger-fullstack-unimar\\littletiger\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|solutionrelative:littletiger\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|c:\\users\\hspsz\\documents\\projects\\little-tiger-fullstack-unimar\\littletiger\\interfaces\\iachievementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|solutionrelative:littletiger\\interfaces\\iachievementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|c:\\users\\hspsz\\documents\\projects\\little-tiger-fullstack-unimar\\littletiger\\entities\\userbet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|solutionrelative:littletiger\\entities\\userbet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|c:\\users\\hspsz\\documents\\projects\\little-tiger-fullstack-unimar\\littletiger\\entities\\achievement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|solutionrelative:littletiger\\entities\\achievement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|c:\\users\\hspsz\\documents\\projects\\little-tiger-fullstack-unimar\\littletiger\\entities\\bet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|solutionrelative:littletiger\\entities\\bet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|c:\\users\\hspsz\\documents\\projects\\little-tiger-fullstack-unimar\\littletiger\\littletiger.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|solutionrelative:littletiger\\littletiger.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3706266D-BAA7-44CD-A058-947EC9B414B2}|contexts\\AuthContext\\AuthContext.csproj|c:\\users\\hspsz\\documents\\projects\\little-tiger-fullstack-unimar\\contexts\\authcontext\\authcontext.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3706266D-BAA7-44CD-A058-947EC9B414B2}|contexts\\AuthContext\\AuthContext.csproj|solutionrelative:contexts\\authcontext\\authcontext.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|c:\\users\\hspsz\\documents\\projects\\little-tiger-fullstack-unimar\\littletiger\\littletiger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|solutionrelative:littletiger\\littletiger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|c:\\users\\hspsz\\documents\\projects\\little-tiger-fullstack-unimar\\littletiger\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16426B5E-E301-AE77-08F9-20C25C91B3C3}|LittleTiger\\LittleTiger.csproj|solutionrelative:littletiger\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,117 +25,60 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 274,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Amount.cs",
-              "DocumentMoniker": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\LittleTiger\\ValueObjects\\Amount.cs",
-              "RelativeDocumentMoniker": "LittleTiger\\ValueObjects\\Amount.cs",
-              "ToolTip": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\LittleTiger\\ValueObjects\\Amount.cs",
-              "RelativeToolTip": "LittleTiger\\ValueObjects\\Amount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AchievementRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\LittleTiger\\Repositories\\AchievementRepository.cs",
+              "RelativeDocumentMoniker": "LittleTiger\\Repositories\\AchievementRepository.cs",
+              "ToolTip": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\LittleTiger\\Repositories\\AchievementRepository.cs",
+              "RelativeToolTip": "LittleTiger\\Repositories\\AchievementRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T01:17:08.33Z"
+              "WhenOpened": "2026-04-06T23:31:18.286Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Profile.cs",
-              "DocumentMoniker": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\LittleTiger\\Entities\\Profile.cs",
-              "RelativeDocumentMoniker": "LittleTiger\\Entities\\Profile.cs",
-              "ToolTip": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\LittleTiger\\Entities\\Profile.cs",
-              "RelativeToolTip": "LittleTiger\\Entities\\Profile.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBcAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\LittleTiger\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "LittleTiger\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\LittleTiger\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "LittleTiger\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T00:43:20.95Z",
+              "WhenOpened": "2026-04-06T23:30:40.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAchievementRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\LittleTiger\\Interfaces\\IAchievementRepository.cs",
+              "RelativeDocumentMoniker": "LittleTiger\\Interfaces\\IAchievementRepository.cs",
+              "ToolTip": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\LittleTiger\\Interfaces\\IAchievementRepository.cs",
+              "RelativeToolTip": "LittleTiger\\Interfaces\\IAchievementRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T23:26:01.864Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UserBet.cs",
-              "DocumentMoniker": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\LittleTiger\\Entities\\UserBet.cs",
-              "RelativeDocumentMoniker": "LittleTiger\\Entities\\UserBet.cs",
-              "ToolTip": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\LittleTiger\\Entities\\UserBet.cs",
-              "RelativeToolTip": "LittleTiger\\Entities\\UserBet.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBEAAAAJAAAAAAAAAA==",
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\LittleTiger\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "LittleTiger\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\LittleTiger\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "LittleTiger\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T00:42:14.797Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\LittleTiger\\Entities\\Player.cs",
-              "RelativeDocumentMoniker": "LittleTiger\\Entities\\Player.cs",
-              "ToolTip": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\LittleTiger\\Entities\\Player.cs",
-              "RelativeToolTip": "LittleTiger\\Entities\\Player.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T00:42:15.709Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Bet.cs",
-              "DocumentMoniker": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\LittleTiger\\Entities\\Bet.cs",
-              "RelativeDocumentMoniker": "LittleTiger\\Entities\\Bet.cs",
-              "ToolTip": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\LittleTiger\\Entities\\Bet.cs",
-              "RelativeToolTip": "LittleTiger\\Entities\\Bet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T00:40:46.616Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Achievement.cs",
-              "DocumentMoniker": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\LittleTiger\\Entities\\Achievement.cs",
-              "RelativeDocumentMoniker": "LittleTiger\\Entities\\Achievement.cs",
-              "ToolTip": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\LittleTiger\\Entities\\Achievement.cs",
-              "RelativeToolTip": "LittleTiger\\Entities\\Achievement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T00:40:34.922Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LittleTiger.http",
-              "DocumentMoniker": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\LittleTiger\\LittleTiger.http",
-              "RelativeDocumentMoniker": "LittleTiger\\LittleTiger.http",
-              "ToolTip": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\LittleTiger\\LittleTiger.http",
-              "RelativeToolTip": "LittleTiger\\LittleTiger.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-03-31T00:38:43.899Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LittleTiger.csproj",
-              "DocumentMoniker": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\LittleTiger\\LittleTiger.csproj",
-              "RelativeDocumentMoniker": "LittleTiger\\LittleTiger.csproj",
-              "ToolTip": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\LittleTiger\\LittleTiger.csproj",
-              "RelativeToolTip": "LittleTiger\\LittleTiger.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-31T00:37:26.314Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AuthContext.csproj",
-              "DocumentMoniker": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\contexts\\AuthContext\\AuthContext.csproj",
-              "RelativeDocumentMoniker": "contexts\\AuthContext\\AuthContext.csproj",
-              "ToolTip": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\contexts\\AuthContext\\AuthContext.csproj",
-              "RelativeToolTip": "contexts\\AuthContext\\AuthContext.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-31T00:37:16.477Z"
+              "WhenOpened": "2026-04-06T23:25:48.047Z",
+              "EditorCaption": ""
             }
           ]
         }
