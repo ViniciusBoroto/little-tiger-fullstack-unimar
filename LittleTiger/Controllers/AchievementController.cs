@@ -27,30 +27,13 @@ namespace LittleTiger.Controllers
         {
             try
             {
-                _achievementUC.Run(request);
-                return Ok();
+                var achievement = _achievementUC.Run(request);
+                return Ok(new { message = "Achievement created successfully", achievement });
             }
             catch (Exception ex)
             {
                 return BadRequest(ex.Message);
             }
         }
-
-     [HttpPost("add-to-user")]
-        public IActionResult AddAchievementToUser([FromBody] AddAchievementToUserRequest request)
-        {
-            try
-            {
-                _achievementUC.Run(request);
-                return Ok("Achievement added to user successfully");
-            }
-            catch (Exception ex)
-            {
-                return BadRequest(ex.Message);
-            }
-        }
-
-       
     }
-    
 }

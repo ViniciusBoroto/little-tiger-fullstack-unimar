@@ -9,8 +9,11 @@ builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
 
-builder.Services.AddScoped<PlaceUseCase>();
-builder.Services.AddScoped<IPlayerRepository, PlayerRepository>();
+// DI Configuration
+builder.Services.AddScoped<IAchievementRepository, AchievementRepository>();
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddScoped<IAchievementUseCase, CreateAchievementUseCase>();
+builder.Services.AddScoped<IAddAchievementToUserUseCase, AddAchievementToUserUseCase>();
 
 var app = builder.Build();
 

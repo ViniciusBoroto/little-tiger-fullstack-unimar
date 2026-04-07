@@ -9,6 +9,7 @@
             this.guid = guid;
             Name = name;
             Description = description;
+            Users = new List<User>();
         }
 
         public string Name { get; private set; }
