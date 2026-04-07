@@ -7,6 +7,7 @@ using LittleTiger.Entities;
 using LittleTiger.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
+
 namespace LittleTiger.Controllers
 {
     [ApiController]
@@ -20,6 +21,7 @@ namespace LittleTiger.Controllers
             _achievementUC = achievementUC;
         }
 
+
         [HttpPost("")]
         public IActionResult CheckForAchievements([FromBody] CreateAchievementRequest request)
         {
@@ -32,6 +34,23 @@ namespace LittleTiger.Controllers
             {
                 return BadRequest(ex.Message);
             }
-        }   
+        }
+
+     [HttpPost("add-to-user")]
+        public IActionResult AddAchievementToUser([FromBody] AddAchievementToUserRequest request)
+        {
+            try
+            {
+                _achievementUC.Run(request);
+                return Ok("Achievement added to user successfully");
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
+
+       
     }
+    
 }

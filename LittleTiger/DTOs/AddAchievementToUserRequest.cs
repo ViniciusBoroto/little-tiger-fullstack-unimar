@@ -9,5 +9,12 @@ namespace LittleTiger.DTOs
     {
         public Guid UserId { get; set; }
         public Guid AchievementId { get; set; }
+
+        public AddAchievementToUserRequest(Guid userId, Guid achievementId)
+        {
+            UserId = userId;
+            AchievementId = achievementId;
+        }
+        
     }
 }

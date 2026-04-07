@@ -9,5 +9,6 @@ namespace LittleTiger.Interfaces
     public interface IAchievementUseCase
     {
         Achievement Run(DTOs.CreateAchievementRequest request);
+        void Run(DTOs.AddAchievementToUserRequest request);
     }
 }

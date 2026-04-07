@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LittleTiger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d54927ba54d2ca12f7a9f90e93cb911cd85ee49")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+350540209e7e2d5e1db46073d52f8b9541ac05b2")]
+>>>>>>> ecc8129 (Adicionando DDD na UserUseCase e arrumei a controller)
 [assembly: System.Reflection.AssemblyProductAttribute("LittleTiger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LittleTiger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

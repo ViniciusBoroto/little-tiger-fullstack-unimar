@@ -12,9 +12,9 @@ namespace LittleTiger.Controllers
     [Route("api/[controller]")]
     public class UserController : ControllerBase
     {
-        private readonly IUserUseCase _userUC;
+        private readonly IAddAchievementToUserUseCase _userUC;
 
-        public UserController(IUserUseCase userUC)
+        public UserController(IAddAchievementToUserUseCase userUC)
         {
             _userUC = userUC;
         }
@@ -24,7 +24,7 @@ namespace LittleTiger.Controllers
         {
             try
             {
-                _userUC.AddAchievementToUser(request.UserId, request.AchievementId);
+                _userUC.Run(request.UserId, request.AchievementId);
                 return Ok("Achievement added to user successfully");
             }
             catch (Exception ex)

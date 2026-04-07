@@ -7,18 +7,18 @@ using LittleTiger.Interfaces;
 
 namespace LittleTiger.UseCases
 {
-    public class UserUseCase : IUserUseCase
+    public class AddAchievementToUserUseCase : IAddAchievementToUserUseCase
     {
         private readonly IUserRepository _userRepository;
         private readonly IAchievementRepository _achievementRepository;
 
-        public UserUseCase(IUserRepository userRepository, IAchievementRepository achievementRepository)
+        public AddAchievementToUserUseCase(IUserRepository userRepository, IAchievementRepository achievementRepository)
         {
             _userRepository = userRepository;
             _achievementRepository = achievementRepository;
         }
 
-        public void AddAchievementToUser(Guid userId, Guid achievementId)
+        public void Run(Guid userId, Guid achievementId)
         {
             if (userId == Guid.Empty)
             {
