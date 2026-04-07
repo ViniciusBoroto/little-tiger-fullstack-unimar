@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "p97joET7O8E=",
+  "dgSpecHash": "Rk7Aoc2I72M=",
   "success": true,
-  "projectFilePath": "/home/vinicius/Documents/faculdade/Fullstack/atvLittleTiger/repo/LittleTiger/LittleTiger.csproj",
+  "projectFilePath": "C:\\Users\\jscar\\OneDrive\\Documentos\\GitHub\\little-tiger-fullstack-unimar\\LittleTiger\\LittleTiger.csproj",
   "expectedPackageFiles": [
-    "/home/vinicius/.nuget/packages/microsoft.aspnetcore.openapi/10.0.3/microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
-    "/home/vinicius/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+    "C:\\Users\\jscar\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\jscar\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
   ],
   "logs": []
 }

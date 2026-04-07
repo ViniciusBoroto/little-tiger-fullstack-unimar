@@ -12,6 +12,7 @@ namespace LittleTiger.Interfaces
     public interface IAchievementRepository
     {
         // List<Achievement> GetAll();
+        Achievement GetById(Guid id);
         Achievement Create(string name, string description);
         Achievement GetById(Guid id);
     }
