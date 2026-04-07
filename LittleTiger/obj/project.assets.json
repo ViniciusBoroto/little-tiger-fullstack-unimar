@@ -1,105 +1,46 @@
 {
   "version": 3,
   "targets": {
-    "net10.0": {
-      "Microsoft.AspNetCore.OpenApi/10.0.3": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.OpenApi": "2.0.0"
-        },
-        "compile": {
-          "lib/net10.0/Microsoft.AspNetCore.OpenApi.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net10.0/Microsoft.AspNetCore.OpenApi.dll": {
-            "related": ".xml"
-          }
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ],
-        "build": {
-          "build/Microsoft.AspNetCore.OpenApi.targets": {}
-        }
-      },
-      "Microsoft.OpenApi/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net8.0/Microsoft.OpenApi.dll": {
-            "related": ".pdb;.xml"
-          }
-        },
-        "runtime": {
-          "lib/net8.0/Microsoft.OpenApi.dll": {
-            "related": ".pdb;.xml"
-          }
-        }
-      }
-    }
+    "net10.0": {}
   },
-  "libraries": {
-    "Microsoft.AspNetCore.OpenApi/10.0.3": {
-      "sha512": "SAvSrKDgnY5GDjDAngOXxPhUvEKlTU/0zIq8zidqHvh/xnZBPs0Vc4LqwyvnmnafNnyUaivtRABz4K4wodXfSg==",
-      "type": "package",
-      "path": "microsoft.aspnetcore.openapi/10.0.3",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Icon.png",
-        "PACKAGE.md",
-        "THIRD-PARTY-NOTICES.TXT",
-        "analyzers/dotnet/cs/Microsoft.AspNetCore.OpenApi.SourceGenerators.dll",
-        "build/Microsoft.AspNetCore.OpenApi.targets",
-        "lib/net10.0/Microsoft.AspNetCore.OpenApi.dll",
-        "lib/net10.0/Microsoft.AspNetCore.OpenApi.xml",
-        "microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
-        "microsoft.aspnetcore.openapi.nuspec"
-      ]
-    },
-    "Microsoft.OpenApi/2.0.0": {
-      "sha512": "GGYLfzV/G/ct80OZ45JxnWP7NvMX1BCugn/lX7TH5o0lcVaviavsLMTxmFV2AybXWjbi3h6FF1vgZiTK6PXndw==",
-      "type": "package",
-      "path": "microsoft.openapi/2.0.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "README.md",
-        "lib/net8.0/Microsoft.OpenApi.dll",
-        "lib/net8.0/Microsoft.OpenApi.pdb",
-        "lib/net8.0/Microsoft.OpenApi.xml",
-        "lib/netstandard2.0/Microsoft.OpenApi.dll",
-        "lib/netstandard2.0/Microsoft.OpenApi.pdb",
-        "lib/netstandard2.0/Microsoft.OpenApi.xml",
-        "microsoft.openapi.2.0.0.nupkg.sha512",
-        "microsoft.openapi.nuspec"
-      ]
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net10.0": [
-      "Microsoft.AspNetCore.OpenApi >= 10.0.3"
-    ]
+    "net10.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\jscar\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\hspsz\\.nuget\\packages\\": {},
+>>>>>>> 757a5b8fe03ae8face3e24f676e73ec6eeee581c
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\jscar\\OneDrive\\Documentos\\GitHub\\little-tiger-fullstack-unimar\\LittleTiger\\LittleTiger.csproj",
       "projectName": "LittleTiger",
       "projectPath": "C:\\Users\\jscar\\OneDrive\\Documentos\\GitHub\\little-tiger-fullstack-unimar\\LittleTiger\\LittleTiger.csproj",
       "packagesPath": "C:\\Users\\jscar\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jscar\\OneDrive\\Documentos\\GitHub\\little-tiger-fullstack-unimar\\LittleTiger\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\LittleTiger\\LittleTiger.csproj",
+      "projectName": "LittleTiger",
+      "projectPath": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\LittleTiger\\LittleTiger.csproj",
+      "packagesPath": "C:\\Users\\hspsz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hspsz\\Documents\\Projects\\little-tiger-fullstack-unimar\\LittleTiger\\obj\\",
+>>>>>>> 757a5b8fe03ae8face3e24f676e73ec6eeee581c
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\jscar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\hspsz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 757a5b8fe03ae8face3e24f676e73ec6eeee581c
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -126,17 +67,15 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
+<<<<<<< HEAD
       "SdkAnalysisLevel": "10.0.200"
+=======
+      "SdkAnalysisLevel": "9.0.300"
+>>>>>>> 757a5b8fe03ae8face3e24f676e73ec6eeee581c
     },
     "frameworks": {
       "net10.0": {
         "targetAlias": "net10.0",
-        "dependencies": {
-          "Microsoft.AspNetCore.OpenApi": {
-            "target": "Package",
-            "version": "[10.0.3, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",
@@ -148,6 +87,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+<<<<<<< HEAD
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -571,6 +511,9 @@
           "System.Xml.XPath": "(,4.3.32767]",
           "System.Xml.XPath.XDocument": "(,5.0.32767]"
         }
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.312/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 757a5b8fe03ae8face3e24f676e73ec6eeee581c
       }
     }
   }
