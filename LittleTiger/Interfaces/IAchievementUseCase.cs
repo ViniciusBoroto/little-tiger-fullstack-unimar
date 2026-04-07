@@ -2,13 +2,13 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using LittleTiger.DTOs;
 using LittleTiger.Entities;
 
 namespace LittleTiger.Interfaces
 {
     public interface IAchievementUseCase
     {
-        Achievement Run(DTOs.CreateAchievementRequest request);
-        void Run(DTOs.AddAchievementToUserRequest request);
+        Achievement Run(CreateAchievementRequest request);
     }
 }

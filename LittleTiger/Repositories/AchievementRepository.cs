@@ -20,7 +20,10 @@ namespace LittleTiger.Repositories
 
         public Achievement GetById(Guid id)
         {
-            return _achievements.FirstOrDefault(a => a.Id == id);
+            var achievement = _achievements.FirstOrDefault(a => a.Id == id);
+            if (achievement == null)
+                throw new KeyNotFoundException($"Achievement with ID {id} not found.");
+            return achievement;
         }
     }
 }
